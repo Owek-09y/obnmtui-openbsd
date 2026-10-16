@@ -1,6 +1,3 @@
-# obnmtui-openbsd
-openbsd networkmanager for thinkpad to use wifi easier
-
 
 # obnmtui
 

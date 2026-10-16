@@ -35,11 +35,9 @@ doas pkg_add git
 Clone the repository:
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/obnmtui.git
+git clone https://github.com/Owek-09y/obnmtui.git
 cd obnmtui
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Compile the program
 
